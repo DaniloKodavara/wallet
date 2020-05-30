@@ -11,5 +11,5 @@ script:
 deploy:
   provider: heroku
   api_key:
-    - secure: $SECURE_KEY
-  app: $APP
+    - secure: 7b96787c-6d37-48cc-ad99-d408c9f9e193
+  app: d-wallet-api
