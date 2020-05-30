@@ -4,10 +4,6 @@ jdk:
 - oraclejdk8
 before_install:
 - export TZ=Brazil/East
-install:
-- mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-script:
-- mvn test
 deploy:
   provider: heroku
   api_key:
