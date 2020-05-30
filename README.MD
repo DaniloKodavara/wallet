@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.com/github/DaniloKodavara/wallet/.svg?branch=master)](https://travis-ci.com/github/DaniloKodavara/wallet)
